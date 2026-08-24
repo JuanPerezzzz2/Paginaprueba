@@ -229,6 +229,30 @@ select:focus-visible {
   line-height: 1;
 }
 
+.header-logo {
+  display: block;
+  width: 156px;
+}
+
+.header-logo-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.header-logo-parts {
+  display: flex;
+  width: auto;
+  align-items: center;
+  gap: 8px;
+}
+
+.header-logo-part {
+  display: block;
+  width: auto;
+  height: 53px;
+}
+
 .logo-main {
   display: block;
   font-family: "Fraunces", serif;
@@ -1350,6 +1374,19 @@ footer {
 
   .nav {
     min-height: 76px;
+  }
+
+  .header-logo {
+    width: 138px;
+  }
+
+  .header-logo-parts {
+    width: auto;
+    gap: 6px;
+  }
+
+  .header-logo-part {
+    height: 44px;
   }
 
   .nav-links {
