@@ -503,6 +503,11 @@ section {
   opacity: 0.65;
 }
 
+.standards-list-expanded {
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
 .section-head {
   max-width: 780px;
   margin-bottom: 58px;
@@ -847,6 +852,10 @@ section {
 
 .split-section p:last-child {
   margin-bottom: 0;
+}
+
+.service-cta {
+  margin-top: 34px;
 }
 
 .check-list {
