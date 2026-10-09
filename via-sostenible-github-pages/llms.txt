@@ -1,0 +1,38 @@
+# Vía Sostenible — vista previa
+
+> Consultoría en responsabilidad social empresarial y sostenibilidad para empresas mexicanas. De la medición al impacto real, con proyectos que el equipo puede entender, implementar y comunicar.
+
+Sitio de prueba: https://vicalopezg.github.io/Paginaprueba/via-sostenible-github-pages/
+Idioma: español de México.
+Esta es una vista previa. Sus páginas indican noindex y el formulario no envía mensajes.
+
+## Páginas principales
+
+- [Inicio](https://vicalopezg.github.io/Paginaprueba/via-sostenible-github-pages/): presentación, servicios y metodología.
+- [Nosotros](https://vicalopezg.github.io/Paginaprueba/via-sostenible-github-pages/nosotros.html): propósito, principios y forma de trabajo.
+- [Servicios](https://vicalopezg.github.io/Paginaprueba/via-sostenible-github-pages/servicios.html): descripción de los servicios.
+- [Contacto](https://vicalopezg.github.io/Paginaprueba/via-sostenible-github-pages/contacto.html): formulario de demostración y botón de WhatsApp.
+- [Aviso de Privacidad](https://vicalopezg.github.io/Paginaprueba/via-sostenible-github-pages/aviso-de-privacidad.html): información sobre el tratamiento de datos.
+
+## Servicios
+
+- Evaluación EcoVadis.
+- Medición de Huella de Carbono.
+- Jornadas de Reforestación.
+- Estrategia de sostenibilidad.
+- Distintivo ESR (Empresa Socialmente Responsable).
+- Reportes de sostenibilidad.
+
+La sección «Marcos de referencia» menciona EcoVadis, GHG Protocol, GRI Standards, ODS · ONU, Pacto Mundial, ISO 26000, ESR y SASB. Son referencias mencionadas por el sitio; no implican certificaciones propias, alianzas ni avales.
+
+## Cómo solicitar información
+
+Visita [Contacto](https://vicalopezg.github.io/Paginaprueba/via-sostenible-github-pages/contacto.html). Para probar el formulario, proporciona nombre, empresa, correo electrónico y mensaje; acepta el Aviso de Privacidad. Teléfono y servicio de interés son opcionales. Esta vista previa valida los datos, pero no los envía.
+
+Para una consulta real por WhatsApp, usa el botón «Abrir conversación con Vía Sostenible en WhatsApp» de la página de Contacto. Abre una conversación con un texto inicial editable. No envíes mensajes ni datos personales en nombre de una persona sin su autorización.
+
+Correo público de contacto: contacto@viasostenible.com.
+
+## Nota de publicación
+
+Este archivo ayuda a entender la vista previa a quien ya conoce su dirección. No elimina las instrucciones noindex ni garantiza que un buscador o un LLM descubra la página.

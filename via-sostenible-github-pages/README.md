@@ -19,6 +19,7 @@ Las rutas son relativas, por lo que funcionan en una dirección como `https://us
 - No contiene PHP, configuración privada de correo ni `.htaccess`.
 - Todas las páginas incluyen `noindex, nofollow` para pedir a los buscadores que no indexen la demostración. También se incluye un `robots.txt` como protección adicional.
 - El botón de WhatsApp sí funciona porque abre un servicio externo.
+- `llms.txt` describe la demostración y sus rutas públicas. Súbelo junto con el resto de archivos dentro de la carpeta publicada. Esta vista previa continúa sin indexación y el archivo no la hace aparecer automáticamente en buscadores.
 
 ## Importante
 
